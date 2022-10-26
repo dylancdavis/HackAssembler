@@ -1,0 +1,9 @@
+@7
+//comment here.
+@1024
+@99 // here's another comment!
+
+// What does this line do?
+D=D+M;JGE
+
+
