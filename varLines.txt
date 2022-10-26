@@ -1,0 +1,11 @@
+@R1
+(LOOP)
+D=D+M;JLE
+@i
+A=D
+A=A+1
+@LOOP
+D-A;JGE
+@i
+@SCREEN
+@KBD
