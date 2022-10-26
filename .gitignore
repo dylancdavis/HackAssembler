@@ -1,1 +1,4 @@
 .idea/vcs.xml
+*.txt
+*.asm
+*.hack
